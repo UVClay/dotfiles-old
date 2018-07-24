@@ -1,0 +1,7 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.renderWhitespace": "boundary",
+    "terminal.integrated.rendererType": "dom",
+    "python.pythonPath": "python3",
+    "workbench.colorTheme": "Tomorrow Night Eighties"
+}
