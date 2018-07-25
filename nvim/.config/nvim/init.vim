@@ -35,3 +35,4 @@ augroup PreviewOnBottom
 	autocmd InsertEnter * set splitbelow
 	autocmd InsertLeave * set splitbelow!
 augroup END
+
