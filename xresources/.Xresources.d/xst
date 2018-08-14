@@ -1,0 +1,3 @@
+st.termname: st-256color
+
+st.font: Source Code Pro for Powerline:pixelsize=12:antialias=true:autohint=true,xft:Font Awesome
