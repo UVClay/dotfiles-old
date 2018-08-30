@@ -3,5 +3,8 @@
     "editor.renderWhitespace": "boundary",
     "terminal.integrated.rendererType": "dom",
     "python.pythonPath": "python3",
-    "workbench.colorTheme": "Tomorrow Night Eighties"
+    "workbench.colorTheme": "Tomorrow Night Eighties",
+    "editor.fontFamily": "'Source Code Pro for Powerline', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 12,
+
 }
