@@ -16,4 +16,4 @@ antigen theme gentoo
 
 antigen apply
 
-source ~/.zsh/exercism_completion.zsh
+alias steam='LIBGL_DRI3_DISABLE=1 steam'

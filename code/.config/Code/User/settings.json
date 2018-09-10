@@ -5,6 +5,8 @@
     "python.pythonPath": "python3",
     "workbench.colorTheme": "Tomorrow Night Eighties",
     "editor.fontFamily": "'Source Code Pro for Powerline', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.startupEditor": "newUntitledFile",
+    "window.menuBarVisibility": "default",
     "editor.fontSize": 12,
 
 }
